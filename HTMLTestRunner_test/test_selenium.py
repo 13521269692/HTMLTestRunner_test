@@ -4,7 +4,7 @@
 from selenium import webdriver
 import unittest
 import time
-from HTMLTestRunner_cn import HTMLTestRunner
+from HTMLTestRunner import HTMLTestRunner
 import sys
 
 
